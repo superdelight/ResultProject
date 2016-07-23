@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DateRecordLibrary
 {
-    public class Class1
+    public class Newtest
     {
     }
 }
